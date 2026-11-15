@@ -1,0 +1,106 @@
+Bene_Geo_Desc,Bene_Cond,Prvlnc,Prevalence_pct
+California,Alcohol Abuse,0.0215,2.15
+Florida,Alcohol Abuse,0.0232,2.32
+National,Alcohol Abuse,0.0208,2.08
+New York,Alcohol Abuse,0.0205,2.0500000000000003
+Texas,Alcohol Abuse,0.0182,1.82
+California,Alzheimer's Disease/Dementia,0.1047,10.47
+Florida,Alzheimer's Disease/Dementia,0.1261,12.61
+National,Alzheimer's Disease/Dementia,0.1078,10.780000000000001
+New York,Alzheimer's Disease/Dementia,0.1223,12.23
+Texas,Alzheimer's Disease/Dementia,0.1262,12.620000000000001
+California,Arthritis,0.3118,31.180000000000003
+Florida,Arthritis,0.3751,37.51
+National,Arthritis,0.3347,33.47
+New York,Arthritis,0.3232,32.32
+Texas,Arthritis,0.3421,34.21
+California,Asthma,0.053,5.3
+Florida,Asthma,0.0519,5.19
+National,Asthma,0.0497,4.97
+New York,Asthma,0.0589,5.89
+Texas,Asthma,0.0485,4.8500000000000005
+California,Atrial Fibrillation,0.0749,7.489999999999999
+Florida,Atrial Fibrillation,0.1011,10.11
+National,Atrial Fibrillation,0.0841,8.41
+New York,Atrial Fibrillation,0.0894,8.94
+Texas,Atrial Fibrillation,0.0782,7.82
+California,Autism Spectrum Disorders,0.0022,0.22
+Florida,Autism Spectrum Disorders,0.0018,0.18
+National,Autism Spectrum Disorders,0.0026,0.26
+New York,Autism Spectrum Disorders,0.0047,0.47000000000000003
+Texas,Autism Spectrum Disorders,0.0019,0.19
+California,COPD,0.0952,9.520000000000001
+Florida,COPD,0.1346,13.459999999999999
+National,COPD,0.1147,11.469999999999999
+New York,COPD,0.1105,11.05
+Texas,COPD,0.1115,11.15
+California,Cancer,0.0784,7.84
+Florida,Cancer,0.1014,10.14
+National,Cancer,0.0836,8.36
+New York,Cancer,0.0949,9.49
+Texas,Cancer,0.076,7.6
+California,Chronic Kidney Disease,0.2428,24.279999999999998
+Florida,Chronic Kidney Disease,0.2821,28.21
+National,Chronic Kidney Disease,0.2448,24.48
+New York,Chronic Kidney Disease,0.2345,23.45
+Texas,Chronic Kidney Disease,0.2673,26.729999999999997
+California,Depression,0.1622,16.220000000000002
+Florida,Depression,0.1948,19.48
+National,Depression,0.184,18.4
+New York,Depression,0.1702,17.02
+Texas,Depression,0.1819,18.19
+California,Diabetes,0.2719,27.189999999999998
+Florida,Diabetes,0.2781,27.810000000000002
+National,Diabetes,0.2695,26.950000000000003
+New York,Diabetes,0.3134,31.34
+Texas,Diabetes,0.2879,28.79
+California,Drug/Substance Abuse,0.0376,3.7600000000000002
+Florida,Drug/Substance Abuse,0.0363,3.63
+National,Drug/Substance Abuse,0.035,3.5000000000000004
+New York,Drug/Substance Abuse,0.0298,2.98
+Texas,Drug/Substance Abuse,0.0322,3.2199999999999998
+California,HIV/AIDS,0.005,0.5
+Florida,HIV/AIDS,0.0058,0.58
+National,HIV/AIDS,0.0035,0.35000000000000003
+New York,HIV/AIDS,0.0065,0.65
+Texas,HIV/AIDS,0.0037,0.37
+California,Heart Failure,0.1391,13.91
+Florida,Heart Failure,0.1478,14.78
+National,Heart Failure,0.1395,13.950000000000001
+New York,Heart Failure,0.1501,15.010000000000002
+Texas,Heart Failure,0.156,15.6
+California,Hepatitis (Chronic Viral B & C),0.0143,1.43
+Florida,Hepatitis (Chronic Viral B & C),0.0071,0.7100000000000001
+National,Hepatitis (Chronic Viral B & C),0.0078,0.7799999999999999
+New York,Hepatitis (Chronic Viral B & C),0.0096,0.96
+Texas,Hepatitis (Chronic Viral B & C),0.0081,0.8099999999999999
+California,Hyperlipidemia,0.4529,45.29
+Florida,Hyperlipidemia,0.5919,59.19
+National,Hyperlipidemia,0.4766,47.660000000000004
+New York,Hyperlipidemia,0.5116,51.160000000000004
+Texas,Hyperlipidemia,0.4947,49.47
+California,Hypertension,0.5296,52.959999999999994
+Florida,Hypertension,0.6238,62.38
+National,Hypertension,0.572,57.199999999999996
+New York,Hypertension,0.5767,57.67
+Texas,Hypertension,0.5987,59.870000000000005
+California,Ischemic Heart Disease,0.2471,24.709999999999997
+Florida,Ischemic Heart Disease,0.3428,34.28
+National,Ischemic Heart Disease,0.2681,26.810000000000002
+New York,Ischemic Heart Disease,0.2978,29.78
+Texas,Ischemic Heart Disease,0.2899,28.99
+California,Osteoporosis,0.0784,7.84
+Florida,Osteoporosis,0.0834,8.34
+National,Osteoporosis,0.0657,6.569999999999999
+New York,Osteoporosis,0.0728,7.28
+Texas,Osteoporosis,0.0682,6.819999999999999
+California,Schizophrenia and Other Psychotic Disorders,0.0346,3.46
+Florida,Schizophrenia and Other Psychotic Disorders,0.0299,2.9899999999999998
+National,Schizophrenia and Other Psychotic Disorders,0.0295,2.9499999999999997
+New York,Schizophrenia and Other Psychotic Disorders,0.038,3.8
+Texas,Schizophrenia and Other Psychotic Disorders,0.0281,2.81
+California,Stroke,0.0353,3.53
+Florida,Stroke,0.0467,4.67
+National,Stroke,0.0377,3.7699999999999996
+New York,Stroke,0.0428,4.279999999999999
+Texas,Stroke,0.0424,4.24

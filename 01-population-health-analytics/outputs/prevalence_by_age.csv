@@ -1,0 +1,379 @@
+Bene_Cond,Bene_Age_Lvl,Bene_Demo_Lvl,Bene_Demo_Desc,Prevalence_pct
+Alcohol Abuse,65+,Dual Status,Medicare Only,1.3
+Alcohol Abuse,<65,Dual Status,Medicare Only,3.8600000000000003
+Alcohol Abuse,65+,Dual Status,Medicare and Medicaid,2.85
+Alcohol Abuse,<65,Dual Status,Medicare and Medicaid,6.329999999999999
+Alcohol Abuse,65+,Sex,Female,0.8200000000000001
+Alcohol Abuse,<65,Sex,Female,3.6700000000000004
+Alcohol Abuse,65+,Sex,Male,2.37
+Alcohol Abuse,<65,Sex,Male,6.819999999999999
+Alzheimer's Disease/Dementia,65+,Dual Status,Medicare Only,9.35
+Alzheimer's Disease/Dementia,<65,Dual Status,Medicare Only,2.9000000000000004
+Alzheimer's Disease/Dementia,65+,Dual Status,Medicare and Medicaid,29.330000000000002
+Alzheimer's Disease/Dementia,<65,Dual Status,Medicare and Medicaid,5.59
+Alzheimer's Disease/Dementia,65+,Sex,Female,13.38
+Alzheimer's Disease/Dementia,<65,Sex,Female,4.4799999999999995
+Alzheimer's Disease/Dementia,65+,Sex,Male,10.02
+Alzheimer's Disease/Dementia,<65,Sex,Male,4.51
+Arthritis,65+,Dual Status,Medicare Only,33.61
+Arthritis,<65,Dual Status,Medicare Only,27.339999999999996
+Arthritis,65+,Dual Status,Medicare and Medicaid,41.72
+Arthritis,<65,Dual Status,Medicare and Medicaid,26.55
+Arthritis,65+,Sex,Female,39.45
+Arthritis,<65,Sex,Female,33.879999999999995
+Arthritis,65+,Sex,Male,28.549999999999997
+Arthritis,<65,Sex,Male,20.49
+Asthma,65+,Dual Status,Medicare Only,4.31
+Asthma,<65,Dual Status,Medicare Only,5.3100000000000005
+Asthma,65+,Dual Status,Medicare and Medicaid,6.01
+Asthma,<65,Dual Status,Medicare and Medicaid,8.97
+Asthma,65+,Sex,Female,5.72
+Asthma,<65,Sex,Female,10.75
+Asthma,65+,Sex,Male,3.0
+Asthma,<65,Sex,Male,4.49
+Atrial Fibrillation,65+,Dual Status,Medicare Only,9.4
+Atrial Fibrillation,<65,Dual Status,Medicare Only,2.56
+Atrial Fibrillation,65+,Dual Status,Medicare and Medicaid,10.15
+Atrial Fibrillation,<65,Dual Status,Medicare and Medicaid,2.16
+Atrial Fibrillation,65+,Sex,Female,8.4
+Atrial Fibrillation,<65,Sex,Female,1.77
+Atrial Fibrillation,65+,Sex,Male,10.879999999999999
+Atrial Fibrillation,<65,Sex,Male,2.83
+Autism Spectrum Disorders,65+,Dual Status,Medicare Only,0.01
+Autism Spectrum Disorders,<65,Dual Status,Medicare Only,0.29
+Autism Spectrum Disorders,65+,Dual Status,Medicare and Medicaid,0.15
+Autism Spectrum Disorders,<65,Dual Status,Medicare and Medicaid,2.46
+Autism Spectrum Disorders,65+,Sex,Female,0.02
+Autism Spectrum Disorders,<65,Sex,Female,0.84
+Autism Spectrum Disorders,65+,Sex,Male,0.04
+Autism Spectrum Disorders,<65,Sex,Male,2.23
+COPD,65+,Dual Status,Medicare Only,9.969999999999999
+COPD,<65,Dual Status,Medicare Only,9.54
+COPD,65+,Dual Status,Medicare and Medicaid,20.76
+COPD,<65,Dual Status,Medicare and Medicaid,13.969999999999999
+COPD,65+,Sex,Female,11.14
+COPD,<65,Sex,Female,13.79
+COPD,65+,Sex,Male,11.61
+COPD,<65,Sex,Male,10.66
+Cancer,65+,Dual Status,Medicare Only,9.55
+Cancer,<65,Dual Status,Medicare Only,3.47
+Cancer,65+,Dual Status,Medicare and Medicaid,7.75
+Cancer,<65,Dual Status,Medicare and Medicaid,2.73
+Cancer,65+,Sex,Female,8.28
+Cancer,<65,Sex,Female,3.9800000000000004
+Cancer,65+,Sex,Male,10.63
+Cancer,<65,Sex,Male,2.17
+Chronic Kidney Disease,65+,Dual Status,Medicare Only,23.01
+Chronic Kidney Disease,<65,Dual Status,Medicare Only,20.49
+Chronic Kidney Disease,65+,Dual Status,Medicare and Medicaid,37.76
+Chronic Kidney Disease,<65,Dual Status,Medicare and Medicaid,23.32
+Chronic Kidney Disease,65+,Sex,Female,23.31
+Chronic Kidney Disease,<65,Sex,Female,21.72
+Chronic Kidney Disease,65+,Sex,Male,26.900000000000002
+Chronic Kidney Disease,<65,Sex,Male,22.56
+Depression,65+,Dual Status,Medicare Only,14.280000000000001
+Depression,<65,Dual Status,Medicare Only,26.340000000000003
+Depression,65+,Dual Status,Medicare and Medicaid,28.050000000000004
+Depression,<65,Dual Status,Medicare and Medicaid,35.23
+Depression,65+,Sex,Female,19.869999999999997
+Depression,<65,Sex,Female,40.23
+Depression,65+,Sex,Male,11.18
+Depression,<65,Sex,Male,23.72
+Diabetes,65+,Dual Status,Medicare Only,24.97
+Diabetes,<65,Dual Status,Medicare Only,24.51
+Diabetes,65+,Dual Status,Medicare and Medicaid,41.24
+Diabetes,<65,Dual Status,Medicare and Medicaid,27.71
+Diabetes,65+,Sex,Female,25.25
+Diabetes,<65,Sex,Female,26.91
+Diabetes,65+,Sex,Male,29.349999999999998
+Diabetes,<65,Sex,Male,25.929999999999996
+Drug/Substance Abuse,65+,Dual Status,Medicare Only,1.55
+Drug/Substance Abuse,<65,Dual Status,Medicare Only,8.559999999999999
+Drug/Substance Abuse,65+,Dual Status,Medicare and Medicaid,4.55
+Drug/Substance Abuse,<65,Dual Status,Medicare and Medicaid,14.84
+Drug/Substance Abuse,65+,Sex,Female,1.9
+Drug/Substance Abuse,<65,Sex,Female,12.4
+Drug/Substance Abuse,65+,Sex,Male,1.9800000000000002
+Drug/Substance Abuse,<65,Sex,Male,12.139999999999999
+HIV/AIDS,65+,Dual Status,Medicare Only,0.09
+HIV/AIDS,<65,Dual Status,Medicare Only,1.01
+HIV/AIDS,65+,Dual Status,Medicare and Medicaid,0.44
+HIV/AIDS,<65,Dual Status,Medicare and Medicaid,1.9800000000000002
+HIV/AIDS,65+,Sex,Female,0.06
+HIV/AIDS,<65,Sex,Female,0.86
+HIV/AIDS,65+,Sex,Male,0.22
+HIV/AIDS,<65,Sex,Male,2.2399999999999998
+Heart Failure,65+,Dual Status,Medicare Only,12.86
+Heart Failure,<65,Dual Status,Medicare Only,9.370000000000001
+Heart Failure,65+,Dual Status,Medicare and Medicaid,26.200000000000003
+Heart Failure,<65,Dual Status,Medicare and Medicaid,11.34
+Heart Failure,65+,Sex,Female,13.919999999999998
+Heart Failure,<65,Sex,Female,10.11
+Heart Failure,65+,Sex,Male,15.370000000000001
+Heart Failure,<65,Sex,Male,10.92
+Hepatitis (Chronic Viral B & C),65+,Dual Status,Medicare Only,0.33999999999999997
+Hepatitis (Chronic Viral B & C),<65,Dual Status,Medicare Only,1.3599999999999999
+Hepatitis (Chronic Viral B & C),65+,Dual Status,Medicare and Medicaid,1.7399999999999998
+Hepatitis (Chronic Viral B & C),<65,Dual Status,Medicare and Medicaid,2.81
+Hepatitis (Chronic Viral B & C),65+,Sex,Female,0.38999999999999996
+Hepatitis (Chronic Viral B & C),<65,Sex,Female,1.77
+Hepatitis (Chronic Viral B & C),65+,Sex,Male,0.69
+Hepatitis (Chronic Viral B & C),<65,Sex,Male,2.63
+Hyperlipidemia,65+,Dual Status,Medicare Only,50.41
+Hyperlipidemia,<65,Dual Status,Medicare Only,31.06
+Hyperlipidemia,65+,Dual Status,Medicare and Medicaid,50.949999999999996
+Hyperlipidemia,<65,Dual Status,Medicare and Medicaid,32.41
+Hyperlipidemia,65+,Sex,Female,50.1
+Hyperlipidemia,<65,Sex,Female,32.519999999999996
+Hyperlipidemia,65+,Sex,Male,50.970000000000006
+Hyperlipidemia,<65,Sex,Male,31.25
+Hypertension,65+,Dual Status,Medicare Only,58.209999999999994
+Hypertension,<65,Dual Status,Medicare Only,40.82
+Hypertension,65+,Dual Status,Medicare and Medicaid,70.94
+Hypertension,<65,Dual Status,Medicare and Medicaid,43.56
+Hypertension,65+,Sex,Female,60.5
+Hypertension,<65,Sex,Female,43.09
+Hypertension,65+,Sex,Male,59.01
+Hypertension,<65,Sex,Male,41.839999999999996
+Ischemic Heart Disease,65+,Dual Status,Medicare Only,27.36
+Ischemic Heart Disease,<65,Dual Status,Medicare Only,16.89
+Ischemic Heart Disease,65+,Dual Status,Medicare and Medicaid,36.97
+Ischemic Heart Disease,<65,Dual Status,Medicare and Medicaid,16.77
+Ischemic Heart Disease,65+,Sex,Female,23.29
+Ischemic Heart Disease,<65,Sex,Female,15.25
+Ischemic Heart Disease,65+,Sex,Male,35.32
+Ischemic Heart Disease,<65,Sex,Male,18.25
+Osteoporosis,65+,Dual Status,Medicare Only,6.97
+Osteoporosis,<65,Dual Status,Medicare Only,2.36
+Osteoporosis,65+,Dual Status,Medicare and Medicaid,9.64
+Osteoporosis,<65,Dual Status,Medicare and Medicaid,2.52
+Osteoporosis,65+,Sex,Female,11.86
+Osteoporosis,<65,Sex,Female,4.02
+Osteoporosis,65+,Sex,Male,1.54
+Osteoporosis,<65,Sex,Male,1.03
+Schizophrenia and Other Psychotic Disorders,65+,Dual Status,Medicare Only,0.8099999999999999
+Schizophrenia and Other Psychotic Disorders,<65,Dual Status,Medicare Only,4.29
+Schizophrenia and Other Psychotic Disorders,65+,Dual Status,Medicare and Medicaid,7.539999999999999
+Schizophrenia and Other Psychotic Disorders,<65,Dual Status,Medicare and Medicaid,14.19
+Schizophrenia and Other Psychotic Disorders,65+,Sex,Female,1.8800000000000001
+Schizophrenia and Other Psychotic Disorders,<65,Sex,Female,8.780000000000001
+Schizophrenia and Other Psychotic Disorders,65+,Sex,Male,1.4000000000000001
+Schizophrenia and Other Psychotic Disorders,<65,Sex,Male,11.360000000000001
+Stroke,65+,Dual Status,Medicare Only,3.51
+Stroke,<65,Dual Status,Medicare Only,2.39
+Stroke,65+,Dual Status,Medicare and Medicaid,6.93
+Stroke,<65,Dual Status,Medicare and Medicaid,3.0
+Stroke,65+,Sex,Female,3.88
+Stroke,<65,Sex,Female,2.8000000000000003
+Stroke,65+,Sex,Male,4.03
+Stroke,<65,Sex,Male,2.7
+Alcohol Abuse,65+,Race,Asian Pacific Islander,0.59
+Alcohol Abuse,<65,Race,Asian Pacific Islander,2.4899999999999998
+Alcohol Abuse,65+,Race,Hispanic,1.4500000000000002
+Alcohol Abuse,<65,Race,Hispanic,4.4799999999999995
+Alcohol Abuse,65+,Race,Native American,3.0300000000000002
+Alcohol Abuse,<65,Race,Native American,9.13
+Alcohol Abuse,65+,Race,non-Hispanic Black,2.01
+Alcohol Abuse,<65,Race,non-Hispanic Black,4.99
+Alcohol Abuse,65+,Race,non-Hispanic White,1.49
+Alcohol Abuse,<65,Race,non-Hispanic White,5.57
+Alzheimer's Disease/Dementia,65+,Race,Asian Pacific Islander,11.33
+Alzheimer's Disease/Dementia,<65,Race,Asian Pacific Islander,3.64
+Alzheimer's Disease/Dementia,65+,Race,Hispanic,13.15
+Alzheimer's Disease/Dementia,<65,Race,Hispanic,4.0
+Alzheimer's Disease/Dementia,65+,Race,Native American,12.33
+Alzheimer's Disease/Dementia,<65,Race,Native American,3.8600000000000003
+Alzheimer's Disease/Dementia,65+,Race,non-Hispanic Black,14.96
+Alzheimer's Disease/Dementia,<65,Race,non-Hispanic Black,4.47
+Alzheimer's Disease/Dementia,65+,Race,non-Hispanic White,11.77
+Alzheimer's Disease/Dementia,<65,Race,non-Hispanic White,4.63
+Arthritis,65+,Race,Asian Pacific Islander,26.71
+Arthritis,<65,Race,Asian Pacific Islander,15.14
+Arthritis,65+,Race,Hispanic,30.919999999999998
+Arthritis,<65,Race,Hispanic,23.799999999999997
+Arthritis,65+,Race,Native American,34.64
+Arthritis,<65,Race,Native American,28.389999999999997
+Arthritis,65+,Race,non-Hispanic Black,34.96
+Arthritis,<65,Race,non-Hispanic Black,26.22
+Arthritis,65+,Race,non-Hispanic White,35.38
+Arthritis,<65,Race,non-Hispanic White,28.110000000000003
+Asthma,65+,Race,Asian Pacific Islander,4.73
+Asthma,<65,Race,Asian Pacific Islander,5.54
+Asthma,65+,Race,Hispanic,5.16
+Asthma,<65,Race,Hispanic,8.15
+Asthma,65+,Race,Native American,5.41
+Asthma,<65,Race,Native American,8.15
+Asthma,65+,Race,non-Hispanic Black,5.67
+Asthma,<65,Race,non-Hispanic Black,9.4
+Asthma,65+,Race,non-Hispanic White,4.390000000000001
+Asthma,<65,Race,non-Hispanic White,6.909999999999999
+Atrial Fibrillation,65+,Race,Asian Pacific Islander,5.19
+Atrial Fibrillation,<65,Race,Asian Pacific Islander,2.07
+Atrial Fibrillation,65+,Race,Hispanic,5.42
+Atrial Fibrillation,<65,Race,Hispanic,1.72
+Atrial Fibrillation,65+,Race,Native American,6.52
+Atrial Fibrillation,<65,Race,Native American,1.77
+Atrial Fibrillation,65+,Race,non-Hispanic Black,5.36
+Atrial Fibrillation,<65,Race,non-Hispanic Black,2.26
+Atrial Fibrillation,65+,Race,non-Hispanic White,10.4
+Atrial Fibrillation,<65,Race,non-Hispanic White,2.46
+Autism Spectrum Disorders,65+,Race,Asian Pacific Islander,0.01
+Autism Spectrum Disorders,<65,Race,Asian Pacific Islander,1.8599999999999999
+Autism Spectrum Disorders,65+,Race,Hispanic,0.01
+Autism Spectrum Disorders,<65,Race,Hispanic,1.08
+Autism Spectrum Disorders,65+,Race,Native American,0.01
+Autism Spectrum Disorders,<65,Race,Native American,0.96
+Autism Spectrum Disorders,65+,Race,non-Hispanic Black,0.02
+Autism Spectrum Disorders,<65,Race,non-Hispanic Black,1.1199999999999999
+Autism Spectrum Disorders,65+,Race,non-Hispanic White,0.03
+Autism Spectrum Disorders,<65,Race,non-Hispanic White,1.73
+COPD,65+,Race,Asian Pacific Islander,6.99
+COPD,<65,Race,Asian Pacific Islander,4.82
+COPD,65+,Race,Hispanic,8.559999999999999
+COPD,<65,Race,Hispanic,6.63
+COPD,65+,Race,Native American,13.79
+COPD,<65,Race,Native American,11.12
+COPD,65+,Race,non-Hispanic Black,10.86
+COPD,<65,Race,non-Hispanic Black,9.34
+COPD,65+,Race,non-Hispanic White,11.88
+COPD,<65,Race,non-Hispanic White,14.14
+Cancer,65+,Race,Asian Pacific Islander,6.38
+Cancer,<65,Race,Asian Pacific Islander,2.96
+Cancer,65+,Race,Hispanic,6.4799999999999995
+Cancer,<65,Race,Hispanic,2.54
+Cancer,65+,Race,Native American,6.87
+Cancer,<65,Race,Native American,2.4
+Cancer,65+,Race,non-Hispanic Black,10.63
+Cancer,<65,Race,non-Hispanic Black,3.4299999999999997
+Cancer,65+,Race,non-Hispanic White,9.54
+Cancer,<65,Race,non-Hispanic White,3.0300000000000002
+Chronic Kidney Disease,65+,Race,Asian Pacific Islander,26.179999999999996
+Chronic Kidney Disease,<65,Race,Asian Pacific Islander,26.790000000000003
+Chronic Kidney Disease,65+,Race,Hispanic,28.59
+Chronic Kidney Disease,<65,Race,Hispanic,27.49
+Chronic Kidney Disease,65+,Race,Native American,31.080000000000002
+Chronic Kidney Disease,<65,Race,Native American,27.05
+Chronic Kidney Disease,65+,Race,non-Hispanic Black,34.92
+Chronic Kidney Disease,<65,Race,non-Hispanic Black,28.87
+Chronic Kidney Disease,65+,Race,non-Hispanic White,23.9
+Chronic Kidney Disease,<65,Race,non-Hispanic White,19.42
+Depression,65+,Race,Asian Pacific Islander,8.4
+Depression,<65,Race,Asian Pacific Islander,21.07
+Depression,65+,Race,Hispanic,14.530000000000001
+Depression,<65,Race,Hispanic,28.189999999999998
+Depression,65+,Race,Native American,16.28
+Depression,<65,Race,Native American,30.39
+Depression,65+,Race,non-Hispanic Black,12.04
+Depression,<65,Race,non-Hispanic Black,23.53
+Depression,65+,Race,non-Hispanic White,16.900000000000002
+Depression,<65,Race,non-Hispanic White,34.81
+Diabetes,65+,Race,Asian Pacific Islander,37.15
+Diabetes,<65,Race,Asian Pacific Islander,31.0
+Diabetes,65+,Race,Hispanic,38.690000000000005
+Diabetes,<65,Race,Hispanic,34.0
+Diabetes,65+,Race,Native American,42.36
+Diabetes,<65,Race,Native American,34.94
+Diabetes,65+,Race,non-Hispanic Black,40.35
+Diabetes,<65,Race,non-Hispanic Black,31.85
+Diabetes,65+,Race,non-Hispanic White,24.77
+Diabetes,<65,Race,non-Hispanic White,23.74
+Drug/Substance Abuse,65+,Race,Asian Pacific Islander,0.96
+Drug/Substance Abuse,<65,Race,Asian Pacific Islander,5.28
+Drug/Substance Abuse,65+,Race,Hispanic,1.78
+Drug/Substance Abuse,<65,Race,Hispanic,9.32
+Drug/Substance Abuse,65+,Race,Native American,3.35
+Drug/Substance Abuse,<65,Race,Native American,15.110000000000001
+Drug/Substance Abuse,65+,Race,non-Hispanic Black,2.87
+Drug/Substance Abuse,<65,Race,non-Hispanic Black,11.49
+Drug/Substance Abuse,65+,Race,non-Hispanic White,1.91
+Drug/Substance Abuse,<65,Race,non-Hispanic White,13.11
+HIV/AIDS,65+,Race,Asian Pacific Islander,0.06
+HIV/AIDS,<65,Race,Asian Pacific Islander,0.84
+HIV/AIDS,65+,Race,Hispanic,0.27
+HIV/AIDS,<65,Race,Hispanic,2.15
+HIV/AIDS,65+,Race,Native American,0.12
+HIV/AIDS,<65,Race,Native American,1.04
+HIV/AIDS,65+,Race,non-Hispanic Black,0.63
+HIV/AIDS,<65,Race,non-Hispanic Black,3.61
+HIV/AIDS,65+,Race,non-Hispanic White,0.08
+HIV/AIDS,<65,Race,non-Hispanic White,0.97
+Heart Failure,65+,Race,Asian Pacific Islander,11.08
+Heart Failure,<65,Race,Asian Pacific Islander,9.78
+Heart Failure,65+,Race,Hispanic,14.099999999999998
+Heart Failure,<65,Race,Hispanic,10.530000000000001
+Heart Failure,65+,Race,Native American,16.63
+Heart Failure,<65,Race,Native American,11.16
+Heart Failure,65+,Race,non-Hispanic Black,18.45
+Heart Failure,<65,Race,non-Hispanic Black,15.14
+Heart Failure,65+,Race,non-Hispanic White,14.549999999999999
+Heart Failure,<65,Race,non-Hispanic White,9.33
+Hepatitis (Chronic Viral B & C),65+,Race,Asian Pacific Islander,2.4299999999999997
+Hepatitis (Chronic Viral B & C),<65,Race,Asian Pacific Islander,3.4299999999999997
+Hepatitis (Chronic Viral B & C),65+,Race,Hispanic,0.7100000000000001
+Hepatitis (Chronic Viral B & C),<65,Race,Hispanic,2.26
+Hepatitis (Chronic Viral B & C),65+,Race,Native American,0.88
+Hepatitis (Chronic Viral B & C),<65,Race,Native American,2.69
+Hepatitis (Chronic Viral B & C),65+,Race,non-Hispanic Black,1.6
+Hepatitis (Chronic Viral B & C),<65,Race,non-Hispanic Black,2.48
+Hepatitis (Chronic Viral B & C),65+,Race,non-Hispanic White,0.33999999999999997
+Hepatitis (Chronic Viral B & C),<65,Race,non-Hispanic White,2.12
+Hyperlipidemia,65+,Race,Asian Pacific Islander,53.28000000000001
+Hyperlipidemia,<65,Race,Asian Pacific Islander,34.25
+Hyperlipidemia,65+,Race,Hispanic,47.4
+Hyperlipidemia,<65,Race,Hispanic,33.95
+Hyperlipidemia,65+,Race,Native American,38.83
+Hyperlipidemia,<65,Race,Native American,26.16
+Hyperlipidemia,65+,Race,non-Hispanic Black,48.339999999999996
+Hyperlipidemia,<65,Race,non-Hispanic Black,31.03
+Hyperlipidemia,65+,Race,non-Hispanic White,50.94
+Hyperlipidemia,<65,Race,non-Hispanic White,32.11
+Hypertension,65+,Race,Asian Pacific Islander,58.93000000000001
+Hypertension,<65,Race,Asian Pacific Islander,39.67
+Hypertension,65+,Race,Hispanic,57.99999999999999
+Hypertension,<65,Race,Hispanic,42.480000000000004
+Hypertension,65+,Race,Native American,60.760000000000005
+Hypertension,<65,Race,Native American,42.6
+Hypertension,65+,Race,non-Hispanic Black,70.14
+Hypertension,<65,Race,non-Hispanic Black,53.12
+Hypertension,65+,Race,non-Hispanic White,59.39
+Hypertension,<65,Race,non-Hispanic White,39.839999999999996
+Ischemic Heart Disease,65+,Race,Asian Pacific Islander,23.69
+Ischemic Heart Disease,<65,Race,Asian Pacific Islander,14.97
+Ischemic Heart Disease,65+,Race,Hispanic,26.090000000000003
+Ischemic Heart Disease,<65,Race,Hispanic,16.48
+Ischemic Heart Disease,65+,Race,Native American,28.89
+Ischemic Heart Disease,<65,Race,Native American,16.470000000000002
+Ischemic Heart Disease,65+,Race,non-Hispanic Black,27.07
+Ischemic Heart Disease,<65,Race,non-Hispanic Black,18.04
+Ischemic Heart Disease,65+,Race,non-Hispanic White,29.270000000000003
+Ischemic Heart Disease,<65,Race,non-Hispanic White,16.74
+Osteoporosis,65+,Race,Asian Pacific Islander,11.78
+Osteoporosis,<65,Race,Asian Pacific Islander,2.63
+Osteoporosis,65+,Race,Hispanic,7.66
+Osteoporosis,<65,Race,Hispanic,2.39
+Osteoporosis,65+,Race,Native American,5.92
+Osteoporosis,<65,Race,Native American,1.9800000000000002
+Osteoporosis,65+,Race,non-Hispanic Black,3.9600000000000004
+Osteoporosis,<65,Race,non-Hispanic Black,1.27
+Osteoporosis,65+,Race,non-Hispanic White,7.5
+Osteoporosis,<65,Race,non-Hispanic White,2.83
+Schizophrenia and Other Psychotic Disorders,65+,Race,Asian Pacific Islander,1.27
+Schizophrenia and Other Psychotic Disorders,<65,Race,Asian Pacific Islander,12.72
+Schizophrenia and Other Psychotic Disorders,65+,Race,Hispanic,2.19
+Schizophrenia and Other Psychotic Disorders,<65,Race,Hispanic,9.65
+Schizophrenia and Other Psychotic Disorders,65+,Race,Native American,1.58
+Schizophrenia and Other Psychotic Disorders,<65,Race,Native American,9.36
+Schizophrenia and Other Psychotic Disorders,65+,Race,non-Hispanic Black,3.18
+Schizophrenia and Other Psychotic Disorders,<65,Race,non-Hispanic Black,12.19
+Schizophrenia and Other Psychotic Disorders,65+,Race,non-Hispanic White,1.54
+Schizophrenia and Other Psychotic Disorders,<65,Race,non-Hispanic White,9.55
+Stroke,65+,Race,Asian Pacific Islander,3.46
+Stroke,<65,Race,Asian Pacific Islander,3.17
+Stroke,65+,Race,Hispanic,3.9
+Stroke,<65,Race,Hispanic,2.82
+Stroke,65+,Race,Native American,3.63
+Stroke,<65,Race,Native American,2.27
+Stroke,65+,Race,non-Hispanic Black,5.63
+Stroke,<65,Race,non-Hispanic Black,3.9
+Stroke,65+,Race,non-Hispanic White,3.8699999999999997
+Stroke,<65,Race,non-Hispanic White,2.4299999999999997
