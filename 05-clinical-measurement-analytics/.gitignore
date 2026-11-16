@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+# Synthetic or external source tables and generated outputs stay local.
+data/*
+!data/.gitkeep
+outputs/*
+!outputs/.gitkeep
+figures/*
+!figures/.gitkeep
