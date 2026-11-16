@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# All locally supplied or generated data kept private by default
+/data/*
+!/data/.gitkeep
+/outputs/*
+!/outputs/.gitkeep
+/figures/*
+!/figures/.gitkeep
