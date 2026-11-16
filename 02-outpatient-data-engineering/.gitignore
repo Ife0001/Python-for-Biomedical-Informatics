@@ -1,0 +1,12 @@
+# Original source may be patient-linked; don't publish until rights/privacy reviewed
+data/*
+!data/.gitkeep
+# ALL derived data and reports are excluded by default
+outputs/*
+!outputs/.gitkeep
+figures/*
+!figures/.gitkeep
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
