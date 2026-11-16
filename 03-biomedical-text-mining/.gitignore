@@ -1,0 +1,10 @@
+# Never publish source text, even if files seem deidentified.
+data/*
+!data/.gitkeep
+# Do not publish corpus outputs without a separate disclosure review.
+outputs/*
+!outputs/.gitkeep
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
